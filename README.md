@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Ibtihel Mnaja
-
-👀 I’m a Fullstack Developer
-
-💞️ I’m looking to collaborate on new projects
-
-📫 How to reach me : mnajjaibtihel@gmail.com
+- 👋 Hi, I’m Ibtihel Mnaja
+- 👀 I’m a Fullstack Developer
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me : mnajjaibtihel@gmail.com
