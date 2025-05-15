@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibtihel Mnaja</h1>
-<h3 align="center">A Passionate Software Engineering Student</h3>
+<h3 align="center">A Passionate Data Science Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnajjaa&label=Profile%20views&color=0e75b6&style=flat" alt="mnajjaa" /> </p>
 
